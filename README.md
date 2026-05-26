@@ -1,4 +1,4 @@
-# MiCM RNA-seq Analysis II
+# Differential Gene Expression Analysis
 
 ## Overview
 
@@ -24,8 +24,8 @@ install.packages(c("hexbin", "pheatmap", "RColorBrewer", "ggplot2", "ggbeeswarm"
 ## Outline
 These are the notebooks we will cover during our workshop: 
 
-* [01 DESeq2](https://arielmadr.github.io/MiCM_RNA_Seq_2/Exercises/scripts/01_run_DESeq2.nb.html)
-* [02 GSEA and ORA](https://arielmadr.github.io/MiCM_RNA_Seq_2/Exercises/scripts/02_gsea_and_ora.nb.html)
+* [01 DESeq2](https://arielmadr.github.io/Differential-Gene-Expression-Analysis/Exercises/scripts/01_run_DESeq2.nb.html)
+* [02 GSEA and ORA](https://arielmadr.github.io/Differential-Gene-Expression-Analysis/Exercises/scripts/02_gsea_and_ora.nb.html)
 
 ## References
 
