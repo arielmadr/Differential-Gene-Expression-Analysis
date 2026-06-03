@@ -23,7 +23,7 @@ install.packages(c("hexbin", "pheatmap", "RColorBrewer", "ggplot2", "ggbeeswarm"
 
 ## Outline
 
-The code can be run in [Google Colab](https://colab.research.google.com/github/arielmadr/Differential-Gene-Expression-Analysis/blob/main/Exercises/scripts/Differential_Gene_Expression_Analysis.ipynb)
+The code can be run in [Google Colab](https://colab.research.google.com/github/arielmadr/Differential-Gene-Expression-Analysis/blob/main/Exercises/scripts/Differential_Gene_Expression_Analysis.ipynb).
 
 Alternatively, you can also run locally. These are the notebooks we will cover during our workshop: 
 
